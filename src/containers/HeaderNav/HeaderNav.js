@@ -2,6 +2,8 @@ import React from 'react';
 import { Image, Menu, Form, Input, Icon } from "semantic-ui-react";
 import './HeaderNav.scss';
 import logo from '../../assets/images/youtube-logo.jpg';
+import {Link} from 'react-router-dom'
+
 
 export class HeaderNav extends React.Component{
     render(){
@@ -10,7 +12,7 @@ export class HeaderNav extends React.Component{
             <Menu borderless className="top-menu" fixed="top">
                             {/* LOGO */}
                 <Menu.Item header className="logo">
-                    <Image src={logo} size="tiny"/>
+                    <Link to="/" ><Image src={logo} size="tiny"/></Link>
                 </Menu.Item>
 
                         {/* SEARCH BOX & ICONS CONTAINER  */}
