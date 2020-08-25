@@ -19,12 +19,12 @@ Languages used:
 ![HomePage](youtube-clone-captures/home-feed.PNG)
 ---
 #### Categories of video in Home Page (Trending Button directs you to Trending Videos)
-![HomePage](imagePreview/categories.PNG)
+![HomePage](youtube-clone-captures/categories.PNG)
 ---
 #### Watch Video once clicked
 
-![WatchPage](imagePreview/watch.PNG)
+![WatchPage](youtube-clone-captures/watch.PNG)
 ---
 #### Description of video (Comments, Channel Information)
-![WatchD](imagePreview/description.PNG)
+![WatchD](youtube-clone-captures/description.PNG)
 ---
