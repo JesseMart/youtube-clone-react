@@ -14,17 +14,17 @@ Languages used:
 #### Working components include a Home feed containing multiple categroies which their respective popular videos.
 #### Once a video is clicked it will route you to a Watch component containing information towards its respective video.
 ---
-#### Home Feed
+### Home Feed
 
 ![HomePage](youtube-clone-captures/home-feed.PNG)
 ---
-#### Categories of video in Home Page (Trending Button directs you to Trending Videos)
+### Categories of video in Home Page (Trending Button directs you to Trending Videos)
 ![HomePage](youtube-clone-captures/categories.PNG)
 ---
-#### Watch Video once clicked
+### Watch Video once clicked
 
 ![WatchPage](youtube-clone-captures/watch.PNG)
 ---
-#### Description of video (Comments, Channel Information)
+### Description of video (Comments, Channel Information)
 ![WatchD](youtube-clone-captures/description.PNG)
 ---
